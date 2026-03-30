@@ -60,8 +60,13 @@ SELECT
 FROM netflix_titles;
 ```
 
-Insight:
+
+
+
+**Result:**
+
 Netflix focuses on movies, accounting for nearly 70% of all content, but TV shows also make up 30% because they retain engagement for longer periods, as viewers tend to return for multiple episodes.
+
 ---
 
 
