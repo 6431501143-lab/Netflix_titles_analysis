@@ -59,9 +59,11 @@ SELECT
           / COUNT(*), 2)                                 AS tvshow_pct
 FROM netflix_titles;
 ```
+
+---
+
 Insight:
 Netflix focuses on movies, accounting for nearly 70% of all content, but TV shows also make up 30% because they retain engagement for longer periods, as viewers tend to return for multiple episodes.
----
 
 ### 1.2 Rating Distribution
 
