@@ -1,4 +1,4 @@
-# 🎬 Netflix Content SQL Analysis
+# Netflix Content SQL Analysis
 
 ## Project Overview
 
