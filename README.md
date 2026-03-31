@@ -1,4 +1,4 @@
-# 🎬 Netflix Content SQL Analysis
+#  Netflix Content SQL Analysis
 
 ---
 
@@ -46,30 +46,30 @@ description    TEXT     -- Short description
 
 ## Key Findings
 
-### 🎥 Content Overview
+### Content Overview
 - Total titles: **8,807** — **6,131 Movies (69.6%)** and **2,676 TV Shows (30.4%)**
 - Netflix heavily favors Movies over TV Shows at nearly a **7:3 ratio**
 
-### 📈 Growth Trend
+### Growth Trend
 - Content additions surged from **429 titles in 2016** to a peak of **2,016 titles in 2019**
 - Growth slowed in 2020–2021, likely impacted by COVID-19 production delays
 - Highest YoY growth: **+423%** in 2016 — Netflix's aggressive global expansion phase
 
-### 🌍 Geography
+### Geography
 - **United States** dominates with **2,818 titles (35.3%)** of all content
 - **India** is a strong #2 with **972 titles (12.2%)** — reflecting Netflix's push into South Asia
 - **South Korea** ranks #5, confirming the global rise of K-content
 
-### 🎭 Genres
+### Genres
 - **International Movies** and **Dramas** are the top genres on the platform
 - TV Shows skew heavily toward **International TV Shows** and **Crime TV Shows**
 
-### 🔞 Ratings
+### Ratings
 - **TV-MA** accounts for **36.4%** of all content — Netflix targets adult audiences
 - **TV-14** adds another **24.5%** — combined, mature content makes up over 60% of the library
 - Family-friendly content (TV-G, TV-Y, PG) represents less than **10%** of titles
 
-### 🎬 Directors
+### Directors
 - **Rajiv Chilaka** leads with 19 titles — primarily children's animation (Chhota Bheem)
 - Hollywood legends **Martin Scorsese** and **Steven Spielberg** both appear in the Top 10
 
