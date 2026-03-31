@@ -23,26 +23,7 @@ This project analyzes **Netflix's content library** using SQL and Python to extr
 
 ---
 
-## Dataset Schema
 
-```
-netflix_titles
-──────────────────────────────────────────────────────────
-show_id        TEXT     -- Unique ID for each title
-type           TEXT     -- 'Movie' or 'TV Show'
-title          TEXT     -- Title name
-director       TEXT     -- Director name(s)
-cast           TEXT     -- Cast members (comma-separated)
-country        TEXT     -- Country of production
-date_added     TEXT     -- Date added to Netflix
-release_year   INTEGER  -- Year of original release
-rating         TEXT     -- Content rating (PG, R, TV-MA, etc.)
-duration       TEXT     -- '90 min' or '2 Seasons'
-listed_in      TEXT     -- Genres (comma-separated)
-description    TEXT     -- Short description
-```
-
----
 
 ## Key Findings
 
