@@ -329,5 +329,3 @@ ORDER BY year_added;
 ---
 
 
-
-*Dataset source: [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)*
